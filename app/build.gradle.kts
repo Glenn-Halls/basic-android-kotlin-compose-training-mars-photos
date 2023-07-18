@@ -87,6 +87,9 @@ dependencies {
     // Kotlin serialisation
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.4.0")
 
+    // Coil
+    implementation("io.coil-kt:coil-compose:2.4.0")
+
     debugImplementation("androidx.compose.ui:ui-test-manifest")
     debugImplementation("androidx.compose.ui:ui-tooling")
 
